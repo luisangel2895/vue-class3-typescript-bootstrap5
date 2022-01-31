@@ -1,5 +1,7 @@
 # vue-class3-typescript-bootstrap 5
 
+![image-template](https://github.com/luisangel2895/vue-class3-typescript-bootstrap5/blob/f3346a4bcc95a94a056400bdfb9e139362ded950/images/Screenshot_1.png)
+
 ## Project setup
 
 ```
